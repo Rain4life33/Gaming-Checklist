@@ -2,4 +2,6 @@ So, you decided to read this? Thank you. I would like to say, I did not code a s
 
 Oh yeah, if you want to use this, then go to code, download the zip (it doesn't matter if you extract it or not), then click the file, go to index, and then open that, then it will send you to the website.
 
-Uhhh, another mention, if you're on mobile (mostly targeted at phone), just rotate your screen to landscape for best results, it looks a bit off in portrait. (Landscape = horizontal, portrait = verticle)
+Uhhh, another mention, if you're on mobile (mostly targeted at phone), just rotate your screen to landscape for best results, it looks a bit off in portrait. (Landscape = horizontal; Portrait = verticle)
+
+Another note, if it does update, then you will have to reinstall the file, just delete the old one I guess. (Unless you want to keep the older versions.)
